@@ -21,8 +21,8 @@ A stylish testimonial showcase app that highlights user feedback with a sleek an
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript, Tailwind CSS, React
-- **Backend**: Node.js, Express (if applicable)
-- **Database**: MongoDB, PostgreSQL (if applicable)
+- **Backend**: Node.js, Express 
+- **Database**: MongoDB, PostgreSQL
 - **Tools**: Git, GitHub, Vercel, Netlify
 
 ## 🚀 What’s Next?
