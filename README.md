@@ -45,10 +45,3 @@ Visually engaging, scroll-based UI with GSAP and Google Auth.
 
 ---
 
-### 🏆 Highlights
-
-- 🥇 Winner — Trikon 1.0 Hackathon (MIET, 2024)  
-- 🥈 Runner-Up — AWS Gen AI Ideathon (2024)  
-- 📜 MERN Stack Certified — Pregrad (2024) 
-
----
