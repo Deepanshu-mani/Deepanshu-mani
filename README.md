@@ -1,27 +1,10 @@
-<div align="center">
-  <h1>Hi, I'm Deepanshu Mani 👋</h1>
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=00B4D8&size=25&lines=Full+Stack+Developer;MERN+%26+Next.js+Enthusiast;UI%2FX+Focused+Coder"/>
-  </p>
-  
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <div>
-      <a href="mailto:deepanshukumar1542004@gmail.com">
-        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-      <a href="https://www.linkedin.com/in/deepanshu-mani-441084216/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="https://github.com/Deepanshu-mani">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <a href="https://portfolio-liard-five-41.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      </a>
-    </div>
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="coding animation"/>
-  </div>
-</div>
+# Full Stack Developer
+
+## Contact
+- 📧 [Email](mailto:deepanshukumar1542004@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/deepanshu-mani-441084216/)
+- 🛠️ [GitHub](https://github.com/Deepanshu-mani)
+- 📱 [Portfolio](https://portfolio-liard-five-41.vercel.app/)
 
 ---
 
