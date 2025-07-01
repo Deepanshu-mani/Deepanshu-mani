@@ -118,5 +118,4 @@ Smooth, animated landing page with GSAP + Google Auth integration.
 
 ---
 
-> _“Code that delights users and solves real problems — that’s what I build.”_  
-Made with ❤️ using `Next.js` & `Tailwind CSS`
+
