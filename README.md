@@ -24,24 +24,3 @@ From backend APIs to polished UI with animation — I enjoy building experiences
 </p>
 
 ---
-
-### 🚀 Projects
-
-**📘 StudyNotion**  
-E-learning platform with authentication, instructor dashboards, payments, and course progress tracking.  
-[🔗 GitHub](https://github.com/Deepanshu-mani/studynotion-e-learning-web) • [🌐 Live Demo](https://studynotion-e-learning-web.vercel.app/)
-
-**🧠 Brainly Dashboard**  
-Bookmark manager with AI-assisted summarization for YouTube and Twitter posts.  
-[🔗 GitHub](https://github.com/Deepanshu-mani/brainly) • [🌐 Live Demo](https://brainly-9lwi.vercel.app/)
-
-**🏭 Ajanta Corporate Site**  
-Product-focused business site with contact form integration.  
-[🔗 GitHub](https://github.com/Deepanshu-mani/ajanta-corporate) • [🌐 Live Demo](https://ajanta-corporate.vercel.app/)
-
-**🎯 Animated Landing Page**  
-Visually engaging, scroll-based UI with GSAP and Google Auth.  
-[🔗 GitHub](https://github.com/Deepanshu-mani/animated-landing-page) • [🌐 Live Demo](https://animated-landing-page.vercel.app/)
-
----
-
