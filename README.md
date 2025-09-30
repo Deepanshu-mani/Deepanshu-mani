@@ -1,4 +1,4 @@
-# 👨‍💻 Deepanshu Mani — Full Stack Developer
+# Deepanshu Mani — Full Stack Developer
 
 📍 Uttar Pradesh, India  
 📧 [Email](mailto:deepanshukumar1542004@gmail.com) | 🔗 [Portfolio](https://portfolio-liard-five-41.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/deepanshu-mani-441084216/)
