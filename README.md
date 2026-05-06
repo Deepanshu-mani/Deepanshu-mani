@@ -1,7 +1,7 @@
-# Deepanshu Mani — Full Stack Developer
+# Deepanshu Mani — Full Stack Developer 
 
 📍 Uttar Pradesh, India  
-📧 [Email: deepanshukumar1542004@gmail.com] | 🔗 [Portfolio](https://xtmani.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/deepanshu-mani-441084216/)
+📧 [Email: xtmani2004@gmail.com] | 🔗 [Portfolio](https://xtmani.com/) | 💼 [LinkedIn](https://www.linkedin.com/in/deepanshu-mani)
 
 ---
 
